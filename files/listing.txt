@@ -1,20 +1,19 @@
-Desktop
+New Desktop
 Documents
 Downloads
 Dropbox
 eclipse-helios
 eclipse-juno
 examples.desktop
-Music
+New Music
 navnet-only-2.pcap
 navnet-only.pcap
 navnet.pcap
 navnet.txt
-Pictures
+Do Pictures
 Public
 scm
 src
-Templates
 vdrlog
 Videos
 workspace
